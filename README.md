@@ -8,3 +8,4 @@ The 4 projects in this repository are:
  2) Stock Price Predictor
  3) Fraud Detection Banking
  4) Covid-19 Report using PowerBI and Azure data factory
+
